@@ -2,7 +2,7 @@
 
 I am Vikesh 
 
-🔭 I’m currently working in Data Analytics for a US based retailer
+🔭 I’m currently working a US based retailer in their Analytics Centre of Excellence
 
 🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
 
