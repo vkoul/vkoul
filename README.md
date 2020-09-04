@@ -2,9 +2,7 @@
 
 I am Vikesh 
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working in Data Analytics for a US based Retailer
+🔭 I’m currently working in Data Analytics for a US based retailer
 
 🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
 
