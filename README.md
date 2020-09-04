@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 📫 How to reach me: **[Email me!](vikeshkoul@gmail.com)**
 
 
-### 🚀 Github Respositries you might find interesting 
+### 🚀 Github Repositories you might find interesting 
 
 - **[Economics and Data Science](https://github.com/vkoul/Econ-Data-Science)**
 - **[Data Science Resources](https://github.com/vkoul/Data-Science-Resources)**
