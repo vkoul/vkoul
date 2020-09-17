@@ -8,7 +8,7 @@ I am Vikesh
 
 💬 Ask me about Economics, Data Science and Learning Resources
 
-📫 How to reach me: **[Email me!](vikeshkoul@gmail.com)**
+📫 How to reach me: Linkedin or Twitter!
 
 
 ### 🚀 Github Repositories you might find interesting 
