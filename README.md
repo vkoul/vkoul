@@ -22,6 +22,7 @@ I am **Vikesh **
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikeshkoul@gmail.com)](mailto:vikeshkoul@gmail.com)  
+![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
 
 
 <!--- ![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vikeshkoul.netlify.app/)](https://vikeshkoul.netlify.app/) --->
