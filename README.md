@@ -1,4 +1,4 @@
-### Hi there ! 👋 
+### Hi there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I am Vikesh 
 
@@ -30,3 +30,5 @@ I am Vikesh
 [![github stats](https://github-readme-stats.vercel.app/api?username=vkoul&hide=prs,issues,contribs&count_private=true&show_icons=true&hide_border=False)](https://github.com/vkoul)
 
 [![HitCount](http://hits.dwyl.com/vkoul/README.svg)](http://hits.dwyl.com/vkoul/README)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vkoul.vkoul
