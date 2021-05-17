@@ -8,7 +8,11 @@ I am **Vikesh**
 
 💬 Ask me about Economics, Data Science and Learning Resources
 
-📫 How to reach me: Linkedin or Twitter!
+🙇 Tools:
+![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
 
 
 ### 🚀 Github Repositories you might find interesting 
