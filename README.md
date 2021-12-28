@@ -8,11 +8,51 @@ I am **Vikesh**
 
 💬 Ask me about Economics, Data Science and Learning Resources
 
-🙇 Tools:
+</p>
+<img align="right" alt="Coder GIF" height=250 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<em>
+</em>
+
+🙇 **Tools:**   
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
+
+
+#### Within the :snake: world
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=red)
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
+
+
+<!--
+TODO
+#### Useful frameworks
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
+![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
+-->
+
+<!--
+TODO
+### Educational websites 
+![](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
+![](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
+![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
+## Make one for Booking
+https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white
+
+Source: https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+-->
+
+
 
 
 ### 🚀 Github Repositories you might find interesting 
