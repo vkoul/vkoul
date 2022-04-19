@@ -2,7 +2,7 @@
 
 I am **Vikesh**
 
-🔭 I’m currently working for a Travel Company
+🔭 I’m currently working at [Booking.com](https://www.booking.com/)
 
 🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
 
