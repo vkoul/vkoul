@@ -1,8 +1,8 @@
-### Hi there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I am **Vikesh**
+I am **Vikesh** 
 
-🔭 I’m currently working at [Booking.com](https://www.booking.com/)
+🔭 Currently working at [Booking.com](https://www.booking.com/)
 
 🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
 
@@ -13,7 +13,7 @@ I am **Vikesh**
 <em>
 </em>
 
-🙇 **Tools:**   
+🙇 **Tools**   
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
