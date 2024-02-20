@@ -1,9 +1,9 @@
 
-# Hi, I'm Vikesh 👋🏼  👨🏽‍🎓 👨🏽‍💻 :india: :netherlands: 
+# Hi, I'm Vikesh 👋🏼  👨🏽‍🎓 👨🏽‍💻 :netherlands: 
 
-🔭 Currently working at [Booking.com](https://www.booking.com/)
+💼 Currently working at [Booking.com](https://www.booking.com/)
 
-🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
+🧐 Interested in learning more on the intersection of Econometrics and Machine Learning
 
 💬 Ask me about Economics, Data Science and Learning Resources
 
@@ -52,25 +52,22 @@ Source: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 
-
-
-### 🚀 Github Repositories you might find interesting 
+## 🚀 Github Repositories you might find interesting 
 
 - **[Economics and Data Science](https://github.com/vkoul/Econ-Data-Science)**
 - **[Data Science Resources](https://github.com/vkoul/Data-Science-Resources)**
 - **[Awesome Marketing Analytics](https://github.com/vkoul/awesome-Marketing-Analytics)**
 
 
-### 📬 Find me at
+## 📬 Find me at
 ![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
 [![Linkedin: vikeshkoul](https://img.shields.io/badge/-Vikesh%20Koul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
 
 
 <!--- ![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vikeshkoul.netlify.app/)](https://vikeshkoul.netlify.app/) --->
 
-
+## 📊 GitHub Stats:
 [![github stats](https://github-readme-stats.vercel.app/api?username=vkoul&hide=prs,issues,contribs&count_private=true&show_icons=true&hide_border=False)](https://github.com/vkoul)
-
 
 <table>
   <tr>
@@ -78,5 +75,8 @@ Source: https://github.com/alexandresanlim/Badges4-README.md-Profile
     <td><img src="https://profile-counter.glitch.me/vkoul/count.svg" alt="" /></td>
   </tr>
 </table>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
